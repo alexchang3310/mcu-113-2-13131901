@@ -111,6 +111,174 @@
       "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
       "createDate": "2023-10-17T00:00:00.000+08:00",
       "price": 1000
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "hsVRL2O"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "qJxZ40s"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "dXFqBAY"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "EiS554v"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "IbU8MDh"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "ZN3U58V"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "zR3GZ7o"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "hfmZvRT"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "V_0u6p9"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "F-pB1N_"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "2GLYncX"
+    },
+    {
+      "name": "書籍 Z",
+      "company": "博碩文化",
+      "authors": [
+        "作者甲",
+        "作者乙",
+        "作者丙"
+      ],
+      "price": 10000,
+      "isShow": true,
+      "photoUrl": "https://api.fnkr.net/testimg/200x200/DDDDDD/999999/?text=img",
+      "createDate": "2025-04-08T16:00:00.000Z",
+      "id": "8PHF3ZQ"
     }
   ]
 }
